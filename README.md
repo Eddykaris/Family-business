@@ -5,7 +5,7 @@ Kenya is a great country
 i believe i will be a Wed developer master
 
 
- <!DOCTYPE html <a href="https://eddykaris.github.io/Family-business/Family%20business.html"></a>>
+ <!DOCTYPE html>
 <html>
 <head>
 	WELCOME
@@ -14,3 +14,5 @@ i believe i will be a Wed developer master
 
 </body>
 </html>
+
+https://eddykaris.github.io/Family-business/Family business.html
